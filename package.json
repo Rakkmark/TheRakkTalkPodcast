@@ -1,0 +1,23 @@
+{
+  "name": "therakktalkpodcast",
+  "version": "1.0.0",
+  "description": "The RakkTalk Podcast website",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rakkmark/TheRakkTalkPodcast.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rakkmark/TheRakkTalkPodcast/issues"
+  },
+  "homepage": "https://github.com/Rakkmark/TheRakkTalkPodcast#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
